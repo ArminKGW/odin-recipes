@@ -1,0 +1,37 @@
+body {
+    font-family: "Times New Roman", Serif;
+    background-color: rgb(14, 14, 14);
+    width: 1200px;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 22px;
+    color: rgb(220, 17, 146);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+
+}
+
+h2 {
+    color: rgb(172, 117, 15);
+    padding: 6px;
+    display: inline;
+}
+
+li {
+    font-size: 24px;
+    padding: 8px;
+    margin: 10px;
+    color: rgb(168, 60, 60);
+}
+
+img {
+    height: auto;
+    width: 700px;
+    display: block;
+    margin: 12px auto;
+}
